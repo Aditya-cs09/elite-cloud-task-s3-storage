@@ -1,4 +1,4 @@
-# elite-cloud-task-s3-storage
+# Elite-cloud-task-s3-storage
 ✅ TASK 1 REPORT: Cloud Storage Setup on AWS S3
 Name: Aditya Pal
 Task Title: Create and Configure Cloud Storage on AWS S3
