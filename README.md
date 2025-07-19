@@ -8,7 +8,8 @@ Task Title: Create and Configure Cloud Storage on AWS S3
 College Year: B.Tech CSE – 2nd Year
 
 📝 Task Description:
-Create and configure cloud storage on AWS S3. Deliverable: A bucket setup with example files uploaded and access permissions configured. Also store all work-related code and files in a GitHub repository.
+Create and configure cloud storage on AWS S3.
+Deliverable: A bucket setup with example files uploaded and access permissions configured. Also store all work-related code and files in a GitHub repository.
 
 ✅ Work Done:
 Created an AWS S3 bucket
