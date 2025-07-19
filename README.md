@@ -1,7 +1,10 @@
 # Elite-cloud-task-s3-storage
 ✅ TASK 1 REPORT: Cloud Storage Setup on AWS S3
+
 Name: Aditya Pal
+
 Task Title: Create and Configure Cloud Storage on AWS S3
+
 College Year: B.Tech CSE – 2nd Year
 
 📝 Task Description:
@@ -31,6 +34,7 @@ GitHub Repository Created
 All work-related screenshots, uploaded files, and this report are stored in a GitHub repository.
 
 🌐 S3 Public Link:
+
 cn final certificate link: https://elitetechtask1aditya.s3.eu-north-1.amazonaws.com/cn+final+certificate1.pdf
 
 cn first page link: https://elitetechtask1aditya.s3.eu-north-1.amazonaws.com/cn+first+page+1.pdf
